@@ -1,0 +1,11 @@
+Push cmds to Github
+
+1. git init
+2. git remote add origin remote repository https://github.com/Mac2456/Helloworld.git
+3. git remote -v
+4. git add .
+5. git commit -m "number 1"
+6. git push origin master
+7. history
+
+
